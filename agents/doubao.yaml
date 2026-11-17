@@ -1,0 +1,7 @@
+interface:
+  display_name: "桌面程序可测改造"
+  short_description: "为C/Windows桌面软件加UI树与状态接口，让AI Agent自动点按钮、查状态、定位Bug"
+  default_prompt: "使用 $win32-ai-ui-bridge 帮我完成……"
+
+policy:
+  allow_implicit_invocation: true
